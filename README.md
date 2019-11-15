@@ -1,6 +1,12 @@
 **Tech Interview | EDA**
 
-Pull request when you want to submit. Submissions after Friday 12pm will be considered out of term. 
+Report Analysis on Mental Tech
 
-Remember to include the script and the report. Additional material is welcomed. 
+1. Main Goal
+
+2. Description of dataset
+
+3. Description of what you did
+
+4. Description of results 
 
