@@ -2,7 +2,7 @@
 
 # EDA Report | Mental Health in the Tech Workplace in 2014
 
-Maria João Silva
+Maria João Silva<br>
 22 November 2019
 
 
