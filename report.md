@@ -52,7 +52,7 @@ The data shows that **68.9 % of women suffering from mental illness have sought 
 
 Three different situations were considered: speaking about it with a coworker, with a supervisor, and during a job interview. There were few differences in the results obtained for each gender. The percentages were very close in all three situations. However, there was a slight **tendency in women to be less open to discussing mental health issues with a supervisor and during a job interview (approximately 10 %)**.
 
-<img src="/images/sq2.png" width="500"/>
+<img src="/images/sq2.png" width="800"/>
 
 The most obvious explanation hypothesis for this fact is that, given how few women (relatively speaking) are working in tech and how gender discrimination in the workplace is a continued issue, women may be less inclined to reveal a potential negative factor that could affect their position in that workplace (see subquestion 3 below). This is only an hypothesis, however. Further study would be required to either confirm or reject it as a related factor.
 
@@ -61,7 +61,7 @@ The most obvious explanation hypothesis for this fact is that, given how few wom
 
 In terms of physical health issues, there were few differences between the men and women. In general, **men tended slightly to more easily reject the existence of negative consequences (approximately 10 % more), whereas women seemed more willing to give positive or ambivalent responses as to whether these consequences might exist (approximately 5 %)**.
 
-<img src="/images/sq3.png" width="500"/>
+<img src="/images/sq3.png" width="800"/>
 
 The numbers were very different in regards to mental health, which indicates that, yes, **the two types of issues are perceived differently. The percentages between response options ("Yes", "No", "Maybe") were almost equally distributed**. Interestingly, the same difference that existed in regards to physical health was observed here: men tending more easily to a negative response, while women slightly preferred a positive or ambivalent one.
 
