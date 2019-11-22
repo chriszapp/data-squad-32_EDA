@@ -21,7 +21,7 @@ The main concern of this study was the characterisation of differences in approa
 
 1. In case of illness, what proportion of each gender has sought treatment?
 2. How willing is each gender to talk about their mental health issues in the workplace?
-3. What differences are there in the perception of mental and physical health, particularly in the belief of negative consequences following the discussion of these issues with an employer?
+3. What differences are there in the perception of mental and physical health, particularly, do they believe that there might be negative consequences following the discussion of these issues with an employer?
 
 
 ## Process
@@ -38,22 +38,35 @@ This was the biggest step in cleaning the dataset. After this, I looked at the o
 
 The first observation made was that there were approximately four times as many men as women who responded the survey. In order to have comparable quantities between genders, relative frequencies were used instead of absolute ones. The third gender category, "others" (including transgender, non-binary and unknown genders) was too small to be useable for this type of analysis (only 16 in a sample size of 1259). These 16 rows were dropped from the set.
 
+The second observation had to do with the country of origin of the respondents. Given that gender issues may be culturally-sensitive, the nationalities included in the dataset were analysed. Most respondents came from western countries, with similar, or at least comparable cultural matrixes, so no further action was taken in this regard.
+
 
 #### Subquestion 1: In case of illness, what proportion of each gender has sought treatment?
 
 The data shows that 68.9 % of women suffering from mental illness have sought some form of treatment, while only 45.4 % of the men have pursued the same course. This is a significant difference (almost 25 %) in the average behaviour between genders.
 
+<img src="/images/sq1.png" width="200"/>
+
 #### Subquestion 2: How willing is each gender to talk about their mental health issues in the workplace?
 
-Three different situations were considered: speaking about it with a coworker, with a supervisor, and during a job interview. There were few differences in the results obtained for each gender. The percentages were very close in all three situations. There was a slight tendency in women to be less open to discussing these issues with a supervisor and during a job interview.
+Three different situations were considered: speaking about it with a coworker, with a supervisor, and during a job interview. There were few differences in the results obtained for each gender. The percentages were very close in all three situations. There was a slight tendency in women to be less open to discussing these issues with a supervisor and during a job interview (approximately 10 %).
+
+<img src="/images/sq2.png" width="200"/>
 
 The most obvious explanation hypothesis for this fact is that, given how few women (relatively speaking) are working in tech and how gender discrimination in the workplace is a continued issue, women may be less inclined to reveal a potential negative factor that could affect their position in that workplace (see subquestion 3 below). This is only an hypothesis, however. Further study would be required to either confirm or reject it as a related factor.
 
-#### Subquestion 3: What differences are there in the perception of mental and physical health, particularly in the belief of negative consequences following the discussion of these issues with an employer?
 
-fjslgfksjfh
+#### Subquestion 3: What differences are there in the perception of mental and physical health, particularly, do they believe that there might be negative consequences following the discussion of these issues with an employer?
+
+In terms of physical health issues, there were few differences between the men and women. In general, men tended slightly to more easily reject the existence of negative consequences (approximately 10 % more), whereas women seemed more willing to give positive or ambivalent responses as to whether these consequences might exist (approximately 5 %).
+
+<img src="/images/sq3.png" width="200"/>
+
+The numbers were very different in regards to mental health, which indicates that, yes, the two types of issues are perceived differently. The percentages between response options ("Yes", "No", "Maybe") were almost equally distributed. Interestingly, the same difference that existed in regards to physical health was observed here: men tending more easily to a negative response, while women slightly preferred a positive or ambivalent one.
 
 
-## Description of results
+## Conclusions
 
-Description of results
+The study revealed clear differences in the approach to mental health between genders. In case of illness, women appeared more likely to seek treatment than men. On the other hand, women were slightly less likely to disclose the existence of these issues in the workplace than men, be it with coworkers, supervisors or during interviews. In the case of both genders, physical and mental health issues are approached differently. There seems to be more openness towards the discussion of physical health issues than of mental ones.
+
+Further studies could be conducted to further evaluate the weight of these differences, particularly comparing between job positions or years of experience working in the field. There might also be interest in studying which factors influence the differences noted between genders in subquestions 2 and 3.
