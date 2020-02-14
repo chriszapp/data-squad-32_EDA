@@ -1,0 +1,741 @@
+,state,benefits,care_options,wellness_program,seek_help
+0,IL,Yes,Not sure,No,Yes
+1,IN,Don't know,No,Don't know,Don't know
+2,TX,Yes,No,Don't know,Don't know
+3,TN,Yes,Not sure,No,Don't know
+4,MI,No,No,No,No
+5,IL,Yes,Yes,No,No
+6,OH,Don't know,No,No,No
+7,CA,Yes,Yes,No,No
+8,CT,Don't know,Not sure,No,Don't know
+9,IL,Yes,Not sure,No,No
+10,TN,Yes,Yes,No,Don't know
+11,MD,Yes,Not sure,Yes,Don't know
+12,NY,Yes,Yes,No,No
+13,NC,No,No,No,No
+14,MA,Yes,Yes,No,No
+15,IA,Don't know,No,No,Don't know
+16,CA,Yes,Not sure,Don't know,Yes
+17,TN,Yes,Yes,No,Don't know
+18,TN,Don't know,Not sure,No,Don't know
+19,CA,Yes,Yes,Don't know,Don't know
+20,OH,Don't know,Not sure,No,Don't know
+21,PA,No,Yes,No,No
+22,WA,Yes,Yes,Yes,Yes
+23,WI,Yes,Yes,No,No
+24,NY,No,Yes,No,No
+25,IN,Yes,Yes,No,Don't know
+26,TX,Yes,Yes,No,Yes
+27,MI,Yes,Not sure,Don't know,Yes
+28,IN,Don't know,No,No,No
+29,TX,Yes,Yes,No,Yes
+30,TN,No,No,No,No
+31,IL,Yes,No,No,Don't know
+32,TX,No,Yes,No,No
+33,UT,Don't know,Not sure,Don't know,Don't know
+34,TN,Don't know,Not sure,No,No
+35,NY,Yes,Yes,No,No
+36,TN,Don't know,No,No,No
+37,NY,Don't know,No,No,No
+38,TN,No,No,No,No
+39,IA,Yes,No,No,Don't know
+40,CA,Yes,Yes,Yes,Yes
+41,TX,Yes,No,Don't know,Yes
+42,NM,Don't know,No,Don't know,Don't know
+43,NY,No,No,No,No
+44,MA,Yes,Yes,No,No
+45,CA,Don't know,Not sure,Yes,Don't know
+46,WA,Yes,Yes,Yes,Yes
+47,WA,No,No,No,No
+48,UT,No,No,No,No
+49,NY,Yes,Yes,No,Yes
+50,NY,Yes,Yes,Yes,Yes
+51,CA,No,No,No,No
+52,TX,Don't know,Not sure,No,No
+53,OR,Yes,Not sure,No,Don't know
+54,FL,Yes,Yes,No,No
+55,IL,Don't know,No,No,Don't know
+56,NY,Yes,Yes,Yes,Yes
+57,TX,No,Yes,No,No
+58,OH,Don't know,No,No,No
+59,MN,Don't know,No,No,Don't know
+60,MO,Don't know,Not sure,No,Don't know
+61,AZ,No,Yes,No,No
+62,IN,No,Yes,No,No
+63,MA,Yes,Not sure,Don't know,Don't know
+64,NY,Don't know,No,Don't know,Don't know
+65,WI,Yes,Yes,Yes,Yes
+66,NY,Yes,Not sure,Yes,Don't know
+67,MO,Yes,Not sure,No,No
+68,OR,Don't know,Not sure,No,No
+69,TN,Yes,No,No,No
+70,WA,Yes,No,Yes,Yes
+71,NY,Yes,Yes,No,Don't know
+72,CA,Yes,Yes,Yes,Yes
+73,MO,Yes,Yes,No,Yes
+74,NY,Yes,Yes,No,Don't know
+75,TX,Don't know,No,No,Don't know
+76,CT,No,No,No,No
+77,CO,Don't know,Not sure,No,Don't know
+78,GA,Yes,Yes,No,Yes
+79,DC,Don't know,No,No,No
+80,MN,Don't know,No,Don't know,Don't know
+81,WA,Yes,No,No,No
+82,WA,Yes,No,Yes,Yes
+83,OR,Yes,Yes,No,Yes
+84,IL,Yes,Yes,No,No
+85,CA,No,Yes,No,No
+86,NE,Don't know,Not sure,Don't know,Don't know
+87,IA,Yes,Not sure,No,No
+88,MD,Don't know,No,No,Don't know
+89,OR,Don't know,No,Don't know,Don't know
+90,TX,Don't know,Not sure,Don't know,Don't know
+91,MN,Yes,No,Don't know,Yes
+92,PA,Don't know,Not sure,No,Don't know
+93,IN,Yes,Yes,Yes,Yes
+94,WV,No,No,No,No
+95,MI,Don't know,Not sure,No,Don't know
+96,CA,Don't know,Not sure,No,No
+97,IL,Don't know,Not sure,Don't know,Don't know
+98,IL,Don't know,No,No,Don't know
+99,CA,Don't know,No,No,Don't know
+100,OK,Don't know,Not sure,No,No
+101,UT,No,Yes,No,No
+102,IL,Don't know,Not sure,No,No
+103,NY,Yes,No,No,No
+104,CA,Yes,No,No,Yes
+105,MA,Don't know,No,No,No
+106,WA,No,Yes,Yes,Yes
+107,MN,No,No,No,No
+108,CA,No,Yes,No,No
+109,NC,Don't know,No,No,Don't know
+110,MO,Don't know,Not sure,No,Don't know
+111,MA,Yes,Not sure,Don't know,Don't know
+112,CA,Yes,No,No,No
+113,TX,Don't know,No,No,No
+114,CA,Don't know,Not sure,Don't know,Don't know
+115,WA,Yes,Not sure,No,Don't know
+116,MA,Yes,No,No,No
+117,CA,Yes,Not sure,Don't know,No
+118,MI,Yes,No,No,No
+119,CA,No,No,No,No
+120,NY,Don't know,Not sure,No,No
+121,CA,Yes,No,No,No
+122,TN,Yes,Yes,No,No
+123,OR,Yes,No,No,No
+124,MN,Yes,Yes,Yes,Yes
+125,FL,No,Not sure,No,No
+126,MA,No,Yes,No,No
+127,KS,Don't know,Not sure,No,Don't know
+128,DC,Yes,Yes,Yes,Yes
+129,TX,Don't know,No,No,No
+130,MA,Yes,Yes,Don't know,Don't know
+131,MI,No,No,Don't know,Don't know
+132,NY,Yes,No,No,Don't know
+133,VA,Yes,Not sure,No,No
+134,WA,Yes,No,No,No
+135,PA,Don't know,No,No,No
+136,MI,No,Yes,No,No
+137,PA,Don't know,Not sure,Don't know,Don't know
+138,OR,Don't know,No,Don't know,No
+139,WA,No,Yes,No,No
+140,PA,Yes,Not sure,No,Don't know
+141,OH,Yes,No,No,Yes
+142,TX,Yes,Yes,No,Don't know
+143,NH,Don't know,Not sure,No,Don't know
+144,NC,Yes,Yes,Yes,Yes
+145,FL,No,No,No,No
+146,CA,Yes,Yes,Yes,Yes
+147,GA,Yes,Yes,Don't know,Don't know
+148,OH,Yes,Yes,Yes,Yes
+149,KY,Don't know,No,No,Don't know
+150,NC,No,No,No,No
+151,NY,Yes,Yes,Yes,Don't know
+152,AL,Don't know,No,No,Don't know
+153,GA,Yes,No,No,Don't know
+154,CA,Yes,Yes,Yes,Don't know
+155,VA,Don't know,No,Don't know,Don't know
+156,WA,No,Yes,No,Yes
+157,TX,Yes,No,No,No
+158,FL,Yes,Yes,No,Yes
+159,NV,No,Yes,No,Don't know
+160,AL,Yes,Yes,Don't know,No
+161,CA,Yes,Yes,No,No
+162,CO,No,No,No,No
+163,MN,Yes,No,Don't know,Don't know
+164,NJ,Yes,Yes,Yes,Yes
+165,PA,Yes,No,No,No
+166,MO,Yes,No,No,No
+167,MN,Yes,Yes,Yes,Don't know
+168,PA,Don't know,No,No,Don't know
+169,TX,Don't know,No,No,Don't know
+170,NY,Yes,Yes,No,No
+171,WA,Yes,Not sure,Don't know,Don't know
+172,WA,Don't know,Not sure,Don't know,Don't know
+173,TX,No,Yes,No,No
+174,TX,Yes,Yes,Yes,Don't know
+175,CA,Don't know,No,No,Don't know
+176,NY,Yes,Yes,Don't know,Don't know
+177,CA,Yes,No,No,Don't know
+178,CA,Don't know,Not sure,No,Don't know
+179,SC,Yes,Yes,Yes,Don't know
+180,CA,Yes,No,Don't know,Yes
+181,CA,Yes,No,Yes,Yes
+182,NY,Yes,Yes,Yes,Yes
+183,NY,Yes,Yes,Yes,Yes
+184,CA,Yes,Not sure,Don't know,Don't know
+185,MA,Yes,Not sure,No,Don't know
+186,WA,Yes,Yes,Yes,Yes
+187,CA,Yes,Yes,Don't know,Yes
+188,IL,Yes,Not sure,No,No
+189,IN,No,No,No,No
+190,OR,Don't know,Not sure,No,Don't know
+191,TN,Yes,Not sure,Yes,Yes
+192,OR,Yes,Not sure,Don't know,Yes
+193,WA,No,Yes,No,No
+194,CA,Yes,Not sure,No,Don't know
+195,CA,Don't know,No,Don't know,Don't know
+196,VT,Don't know,Not sure,No,Don't know
+197,NY,Don't know,Not sure,No,Don't know
+198,UT,Yes,Yes,Yes,Yes
+199,NY,Yes,Yes,Yes,Yes
+200,SD,Yes,Yes,Don't know,Yes
+201,CA,Yes,No,No,Don't know
+202,OR,Yes,Not sure,Don't know,Yes
+203,CA,Yes,Yes,No,Yes
+204,CA,Yes,No,Don't know,No
+205,CA,Don't know,Not sure,Don't know,Don't know
+206,CO,Yes,Yes,Yes,Yes
+207,CA,Don't know,Not sure,Don't know,Yes
+208,OH,No,Yes,No,No
+209,WA,Yes,Not sure,Yes,Yes
+210,OH,Don't know,No,No,No
+211,WA,Yes,Not sure,Yes,Don't know
+212,CA,Yes,Not sure,Don't know,No
+213,MA,Yes,Yes,Don't know,Don't know
+214,WA,Yes,Yes,Yes,Yes
+215,MI,Don't know,Not sure,No,Don't know
+216,WA,No,Yes,No,No
+217,CA,Don't know,Not sure,Don't know,Don't know
+218,IA,Don't know,Not sure,Don't know,Don't know
+219,WA,Yes,Yes,No,No
+220,AL,Don't know,No,No,No
+221,CA,Don't know,No,Yes,Yes
+222,CA,Don't know,No,Don't know,Don't know
+223,CA,Yes,Yes,Don't know,Don't know
+224,MA,Yes,Yes,Yes,Yes
+225,CA,Yes,Not sure,Don't know,Yes
+226,CA,No,Yes,No,Don't know
+227,IN,Don't know,Not sure,No,No
+228,WA,Yes,Yes,Don't know,Yes
+229,WA,No,No,No,No
+230,IN,No,Yes,No,No
+231,WA,No,No,No,No
+232,OK,No,No,No,Don't know
+233,MI,Yes,Yes,Yes,Yes
+234,OH,Yes,Yes,No,No
+235,GA,Don't know,Not sure,No,Don't know
+236,CA,Yes,No,Yes,Yes
+237,IN,Yes,No,No,Don't know
+238,WA,Yes,No,Yes,Yes
+239,WA,Yes,No,Yes,Yes
+240,PA,Yes,Yes,Yes,Yes
+241,WA,Yes,Yes,Yes,Yes
+242,CA,Don't know,Not sure,Don't know,No
+243,MA,Yes,Yes,Don't know,Don't know
+244,WA,Yes,Yes,No,No
+245,WA,Don't know,No,No,No
+246,NY,Yes,Yes,Yes,Yes
+247,CA,Yes,Yes,No,Yes
+248,CA,Yes,No,Yes,Yes
+249,IN,Yes,No,No,No
+250,NV,Don't know,No,No,No
+251,CO,Yes,Yes,No,Don't know
+252,CA,Yes,Yes,No,No
+253,CA,Don't know,Not sure,No,No
+254,PA,Yes,No,Don't know,Don't know
+255,SC,Don't know,No,No,Don't know
+256,TX,No,No,No,No
+257,TX,Yes,Not sure,No,Don't know
+258,AL,Don't know,Not sure,No,No
+259,OR,Yes,Yes,No,No
+260,NJ,Yes,Yes,No,No
+261,CA,Don't know,No,No,Don't know
+262,CA,Yes,Yes,No,No
+263,CA,Yes,Yes,No,Yes
+264,NH,Yes,Yes,Yes,Yes
+265,CA,Don't know,No,Don't know,Don't know
+266,OH,Yes,Yes,No,No
+267,OH,Don't know,Not sure,No,Don't know
+268,MA,Don't know,Not sure,Don't know,Don't know
+269,OK,Don't know,Not sure,Don't know,Don't know
+270,CA,Don't know,No,No,Don't know
+271,ID,No,Yes,No,Don't know
+272,NY,Yes,Yes,No,Don't know
+273,CA,Don't know,Not sure,No,Yes
+274,TX,No,Yes,No,No
+275,MD,Yes,Not sure,Yes,Don't know
+276,IN,Yes,No,No,No
+277,OR,Yes,Yes,Yes,Yes
+278,NY,No,No,No,No
+279,MS,No,No,No,No
+280,NJ,Don't know,No,No,No
+281,CA,Don't know,Not sure,No,No
+282,TN,Don't know,No,No,Don't know
+283,WA,Don't know,Not sure,Don't know,Don't know
+284,MA,Yes,Yes,No,Don't know
+285,PA,Yes,Yes,Yes,Yes
+286,KY,Yes,No,Yes,Don't know
+287,PA,Yes,Yes,Yes,Yes
+288,MA,Yes,No,Don't know,No
+289,CA,Yes,No,No,Don't know
+290,VT,Yes,Not sure,Don't know,Don't know
+291,CA,Yes,Yes,No,No
+292,AZ,Yes,Yes,Yes,No
+293,MA,Yes,Yes,No,No
+294,VA,Yes,Yes,Yes,Don't know
+295,WA,Yes,Yes,Yes,No
+296,CA,Don't know,Not sure,No,No
+297,OR,Don't know,Not sure,No,Don't know
+298,MI,Don't know,No,No,No
+299,OR,Yes,No,No,No
+300,CA,Yes,Not sure,Yes,Yes
+301,UT,No,Yes,No,No
+302,CA,Don't know,Not sure,No,No
+303,TX,Don't know,No,Yes,Don't know
+304,CA,Yes,Yes,No,No
+305,OR,Yes,Yes,Yes,Yes
+306,CA,Yes,Yes,Yes,Yes
+307,OH,Don't know,No,No,No
+308,OH,Don't know,No,No,No
+309,CA,Yes,Not sure,Yes,Yes
+310,NY,Don't know,Not sure,No,No
+311,VA,Don't know,Not sure,Don't know,Don't know
+312,CA,Yes,Yes,Yes,Yes
+313,IL,Yes,Yes,No,No
+314,TX,Don't know,No,No,Don't know
+315,NY,Don't know,Not sure,No,No
+316,CA,No,Yes,No,No
+317,CA,Yes,Not sure,Don't know,Don't know
+318,PA,Don't know,Not sure,No,No
+319,CA,No,No,Don't know,Don't know
+320,WA,Don't know,Not sure,Don't know,Don't know
+321,NY,Yes,Not sure,Don't know,No
+322,TX,Yes,Not sure,No,No
+323,CA,Don't know,Not sure,No,No
+324,AZ,Yes,Yes,No,No
+325,OH,No,Yes,No,No
+326,CA,Yes,Yes,Yes,Yes
+327,KS,Yes,No,Yes,No
+328,CA,Yes,Yes,Yes,Yes
+329,CA,Yes,Not sure,Yes,Don't know
+330,NY,Yes,Yes,Yes,Yes
+331,WA,No,No,No,No
+332,CA,Don't know,Not sure,No,Don't know
+333,WA,Yes,Yes,Yes,Yes
+334,VA,Yes,Not sure,Yes,Yes
+335,NC,Don't know,No,No,Don't know
+336,OH,Yes,Not sure,Yes,Yes
+337,PA,Yes,Yes,Yes,Yes
+338,CA,Yes,Yes,Don't know,Yes
+339,TX,Don't know,Not sure,Don't know,Don't know
+340,AZ,No,No,No,No
+341,IL,Don't know,Yes,Don't know,No
+342,NC,Yes,Yes,No,Yes
+343,WI,Yes,Yes,Yes,Yes
+344,CA,Don't know,No,No,Don't know
+345,CA,Yes,Yes,No,Don't know
+346,MN,Don't know,No,No,No
+347,PA,Yes,Yes,No,No
+348,CA,Yes,No,No,Don't know
+349,CA,Yes,No,No,Yes
+350,CA,Yes,Yes,Yes,Yes
+351,CA,Don't know,Not sure,No,No
+352,NY,Don't know,No,Don't know,Don't know
+353,CA,Don't know,Not sure,Don't know,Don't know
+354,FL,No,No,No,No
+355,OR,Don't know,No,No,Don't know
+356,CO,Don't know,Not sure,No,Don't know
+357,GA,Yes,Yes,No,No
+358,OR,Yes,Not sure,Yes,Don't know
+359,CA,Yes,No,No,Yes
+360,CA,Yes,Not sure,Don't know,Don't know
+361,PA,Don't know,No,No,No
+362,CA,No,Yes,No,No
+363,CA,Yes,Yes,Yes,Yes
+364,NY,Don't know,Not sure,Don't know,Yes
+365,MA,Yes,Yes,No,No
+366,PA,Don't know,No,No,Don't know
+367,RI,Don't know,No,Don't know,No
+368,MI,Don't know,Not sure,No,No
+369,IL,Yes,No,No,No
+370,CA,Yes,No,No,No
+371,OR,Don't know,No,No,Don't know
+372,IN,No,Yes,No,No
+373,MA,Don't know,Not sure,No,No
+374,MI,Yes,Yes,Yes,No
+375,OH,No,No,No,No
+376,OH,No,Yes,No,No
+377,NH,Yes,Yes,No,No
+378,OH,Don't know,No,No,No
+379,TN,Yes,Not sure,Yes,Yes
+380,OR,Yes,Yes,Yes,Yes
+381,PA,Yes,Not sure,Don't know,Don't know
+382,NY,Don't know,No,No,Don't know
+383,WA,Don't know,Not sure,Don't know,Don't know
+384,NY,No,No,No,Don't know
+385,CA,Yes,Yes,Yes,Yes
+386,TN,No,No,Yes,Yes
+387,WI,Yes,Not sure,No,No
+388,WI,No,Yes,No,Yes
+389,PA,Yes,Not sure,Don't know,Don't know
+390,MI,No,Yes,No,No
+391,WY,Don't know,No,No,Don't know
+392,KY,Don't know,Not sure,No,No
+393,NY,Don't know,No,No,No
+394,TX,No,Yes,No,No
+395,WI,No,Yes,No,No
+396,WA,Don't know,No,No,No
+397,WA,Yes,No,No,No
+398,GA,No,Not sure,No,Yes
+399,MI,Yes,No,Yes,Don't know
+400,MD,Yes,Yes,No,No
+401,WA,Yes,Yes,No,No
+402,CA,Yes,Yes,Yes,Yes
+403,OR,Don't know,No,No,No
+404,CA,Yes,Yes,Yes,Yes
+405,CA,No,Yes,No,No
+406,MI,Yes,Not sure,No,Don't know
+407,MA,Yes,Yes,No,No
+408,CA,Yes,Yes,No,Don't know
+409,CA,Yes,Yes,No,Yes
+410,FL,Don't know,No,Yes,Yes
+411,WA,Yes,Not sure,Yes,Yes
+412,CA,Don't know,Not sure,Don't know,Don't know
+413,NC,Don't know,Not sure,No,Don't know
+414,IL,Don't know,Not sure,No,Don't know
+415,OH,Don't know,No,No,No
+416,VA,Yes,Not sure,No,Yes
+417,MN,Yes,Yes,Yes,Yes
+418,MO,Don't know,Not sure,No,No
+419,NC,Yes,Yes,Yes,Yes
+420,NY,Yes,Not sure,Yes,Yes
+421,NM,Don't know,No,No,No
+422,TX,No,Yes,No,No
+423,SC,No,No,No,Don't know
+424,FL,Yes,No,No,Don't know
+425,WA,No,Yes,Yes,Yes
+426,CA,Yes,Yes,Don't know,Don't know
+427,OH,Yes,Yes,Yes,No
+428,TN,Yes,Not sure,No,Yes
+429,NY,Don't know,Not sure,No,No
+430,NY,Don't know,Not sure,Don't know,Don't know
+431,MO,Don't know,Not sure,No,Don't know
+432,NY,Yes,Yes,No,No
+433,TN,Don't know,No,No,Don't know
+434,CO,Yes,Yes,No,Yes
+435,PA,Yes,Yes,Don't know,Don't know
+436,NY,Yes,Yes,Yes,No
+437,MN,Yes,Not sure,No,Don't know
+438,MO,Don't know,No,Yes,Don't know
+439,WY,No,Yes,No,No
+440,MN,Don't know,Not sure,Don't know,Don't know
+441,MD,Don't know,Not sure,No,No
+442,KY,Yes,Yes,Yes,Yes
+443,OH,Don't know,Not sure,No,No
+444,NY,Yes,Yes,Don't know,Yes
+445,TN,Don't know,No,Don't know,Don't know
+446,TX,Yes,Yes,No,Don't know
+447,OH,Yes,Yes,No,No
+448,TX,Don't know,Not sure,Don't know,Don't know
+449,CA,Yes,Yes,Yes,Yes
+450,MI,Don't know,Not sure,Don't know,Don't know
+451,CA,Yes,Yes,Yes,Yes
+452,OR,Don't know,No,No,Don't know
+453,NC,Yes,Not sure,No,Don't know
+454,CA,Yes,No,Yes,Don't know
+455,IL,No,Yes,No,No
+456,CA,Yes,Yes,Yes,Yes
+457,CA,Don't know,Not sure,Yes,Don't know
+458,AZ,Yes,Yes,Yes,Yes
+459,CA,Yes,No,No,No
+460,VA,No,Yes,No,No
+461,VA,Don't know,No,No,Don't know
+462,WA,Don't know,Not sure,No,Yes
+463,WI,No,Yes,No,No
+464,CA,Don't know,No,No,No
+465,CA,Don't know,No,No,No
+466,NE,Yes,Yes,Yes,Yes
+467,CO,Yes,Yes,Don't know,Don't know
+468,NY,Yes,Yes,Don't know,Don't know
+469,TX,Don't know,Not sure,No,No
+470,LA,Yes,No,No,No
+471,WA,Don't know,Not sure,Don't know,Don't know
+472,MI,Yes,Yes,No,No
+473,CA,Yes,No,No,Don't know
+474,CA,Don't know,No,Don't know,Don't know
+475,MD,Yes,Yes,Yes,No
+476,CA,No,Yes,No,No
+477,CT,Yes,No,No,No
+478,CA,Yes,Yes,Yes,Yes
+479,CA,No,Yes,No,No
+480,WA,Yes,Yes,Yes,Yes
+481,CA,Don't know,No,No,Don't know
+482,IN,Don't know,Not sure,No,Don't know
+483,TX,Yes,Yes,No,Yes
+484,MO,No,No,No,No
+485,NV,No,Yes,No,No
+486,WA,Don't know,Not sure,No,Don't know
+487,FL,Yes,Yes,Yes,Yes
+488,WA,Yes,Not sure,Yes,Don't know
+489,IL,No,Yes,No,No
+490,FL,Don't know,Not sure,Don't know,Don't know
+491,MA,Yes,No,Yes,Yes
+492,CA,Don't know,No,No,No
+493,WA,Don't know,Not sure,Don't know,Don't know
+494,MI,Don't know,Not sure,No,No
+495,MI,No,Yes,No,No
+496,WI,Yes,Yes,No,Yes
+497,CA,Yes,Not sure,No,Don't know
+498,CA,Yes,Not sure,Don't know,No
+499,TX,No,No,No,No
+500,NY,Yes,Yes,No,No
+501,PA,Don't know,No,No,Don't know
+502,PA,Yes,Yes,Yes,Yes
+503,GA,Don't know,No,No,Don't know
+504,NY,Yes,Yes,No,No
+505,CA,Don't know,Not sure,Yes,Don't know
+506,TN,Yes,No,No,No
+507,TN,Don't know,No,Yes,Don't know
+508,TN,No,Yes,No,No
+509,IL,Yes,Yes,Yes,Yes
+510,WI,No,Yes,No,No
+511,KY,Yes,Yes,No,Don't know
+512,CA,Yes,Yes,Yes,Yes
+513,MN,Yes,Yes,Yes,Yes
+514,TN,Don't know,Not sure,Don't know,No
+515,MN,No,No,No,No
+516,IL,Don't know,No,Don't know,Don't know
+517,TN,No,Yes,No,No
+518,IL,Yes,Yes,Yes,Yes
+519,DC,Yes,Yes,No,No
+520,KS,No,Yes,No,No
+521,CA,Yes,Yes,Don't know,Yes
+522,TN,Don't know,Not sure,Don't know,Don't know
+523,OK,Yes,Yes,No,No
+524,CA,Don't know,Not sure,No,Don't know
+525,TN,Yes,No,Yes,No
+526,TX,Don't know,Not sure,No,Don't know
+527,CO,Yes,Yes,No,Don't know
+528,TN,Don't know,Not sure,Don't know,Don't know
+529,GA,Yes,Yes,Don't know,Don't know
+530,TN,Yes,No,Yes,Don't know
+531,VA,Yes,No,No,Don't know
+532,TN,Yes,Yes,No,Don't know
+533,DC,Don't know,No,No,No
+534,TN,Yes,No,Yes,Yes
+535,VA,Yes,Not sure,Don't know,Yes
+536,TN,No,Yes,No,No
+537,TN,Don't know,Not sure,Don't know,Don't know
+538,TN,Yes,No,Don't know,Yes
+539,TN,Don't know,Not sure,No,Don't know
+540,TN,Don't know,Not sure,No,Don't know
+541,IN,Yes,Yes,Yes,Yes
+542,VA,No,Yes,No,No
+543,TX,Don't know,No,No,Don't know
+544,TX,No,No,No,No
+545,CA,Yes,Yes,Yes,Yes
+546,CO,No,Yes,No,No
+547,OR,Yes,Yes,No,Yes
+548,OK,Yes,No,Yes,Yes
+549,OH,Yes,Yes,Yes,No
+550,TN,Yes,Yes,Don't know,Don't know
+551,VA,Yes,Yes,Yes,Yes
+552,OR,Yes,Yes,No,Yes
+553,OR,Don't know,Yes,No,Yes
+554,PA,No,Yes,No,No
+555,SC,Yes,Yes,Yes,Yes
+556,CA,Don't know,Not sure,No,Don't know
+557,TN,Don't know,Not sure,No,Don't know
+558,UT,Yes,Yes,No,Yes
+559,CA,Yes,No,No,No
+560,MO,Yes,No,Don't know,Don't know
+561,CA,Yes,No,Yes,No
+562,NY,Yes,Yes,Yes,Yes
+563,TX,Yes,No,No,No
+564,MO,Don't know,No,Don't know,Don't know
+565,GA,Yes,Not sure,Yes,Yes
+566,TX,Don't know,No,No,Yes
+567,WA,Yes,Yes,No,Yes
+568,WA,No,Not sure,No,No
+569,WA,Don't know,Not sure,No,Yes
+570,TX,Don't know,No,No,Don't know
+571,WA,Yes,Yes,Yes,Yes
+572,WA,Yes,Yes,Yes,Yes
+573,WA,Yes,Yes,Don't know,Don't know
+574,WA,Yes,Yes,Yes,Yes
+575,AZ,Yes,Yes,No,Don't know
+576,WA,Yes,Yes,Yes,Yes
+577,WA,Don't know,No,Don't know,Don't know
+578,AZ,Yes,Yes,No,No
+579,NY,Yes,Yes,Yes,Yes
+580,WA,Yes,Yes,Yes,Yes
+581,CA,Yes,Yes,Don't know,Yes
+582,WA,Yes,Yes,Don't know,Don't know
+583,WA,Don't know,No,No,Don't know
+584,TN,No,No,No,No
+585,WA,Don't know,No,No,Don't know
+586,CA,Yes,Not sure,Don't know,Don't know
+587,MI,No,Not sure,No,No
+588,IN,Don't know,Not sure,No,Don't know
+589,GA,Yes,Yes,Yes,Yes
+590,WA,Yes,Yes,Yes,Yes
+591,ME,No,No,No,No
+592,NY,Don't know,Not sure,No,Don't know
+593,PA,Yes,Not sure,Yes,Yes
+594,IL,Yes,Yes,Yes,Don't know
+595,MN,Yes,Yes,No,No
+596,TX,Yes,Not sure,No,Don't know
+597,PA,Yes,Yes,No,Don't know
+598,IN,Don't know,No,No,Don't know
+599,PA,Yes,Yes,No,No
+600,OH,Don't know,No,No,Don't know
+601,PA,Yes,Yes,No,Yes
+602,SD,Don't know,No,No,No
+603,IN,No,Yes,No,No
+604,CA,Don't know,Not sure,No,No
+605,TN,Yes,Yes,Yes,Yes
+606,TX,No,Yes,Don't know,Don't know
+607,TN,Yes,Yes,No,Don't know
+608,OR,Don't know,Not sure,Don't know,Don't know
+609,SD,Yes,Not sure,Yes,Yes
+610,NY,Don't know,Not sure,No,No
+611,CT,Yes,Yes,Yes,Yes
+612,CA,Yes,No,No,No
+613,GA,Yes,Yes,Yes,Yes
+614,TN,Yes,Yes,Yes,Yes
+615,IN,Don't know,No,No,No
+616,CA,Don't know,No,No,Don't know
+617,OR,Yes,Yes,Yes,Yes
+618,IN,Don't know,Not sure,No,No
+619,GA,Yes,Yes,Yes,No
+620,IN,Yes,Not sure,Yes,Don't know
+621,MN,Don't know,Not sure,No,No
+622,MN,Don't know,Not sure,Don't know,Don't know
+623,NC,Yes,Not sure,Yes,Don't know
+624,FL,No,No,No,No
+625,MN,Don't know,No,No,Don't know
+626,MO,Don't know,No,Don't know,Don't know
+627,CA,No,Not sure,No,No
+628,OR,No,No,No,No
+629,OH,Don't know,No,No,No
+630,NY,Yes,No,Don't know,Yes
+631,WI,Yes,Yes,No,Yes
+632,WA,Yes,Yes,No,No
+633,IL,No,Yes,Yes,Yes
+634,WA,Yes,Yes,No,No
+635,IL,No,No,No,No
+636,FL,Don't know,Not sure,Don't know,Don't know
+637,TN,Don't know,No,No,Don't know
+638,WA,Yes,Yes,No,Don't know
+639,CA,Don't know,No,No,Don't know
+640,FL,Don't know,No,No,No
+641,OR,Yes,Yes,Don't know,Yes
+642,NJ,Yes,No,No,No
+643,CA,Don't know,Not sure,No,No
+644,FL,Don't know,No,No,No
+645,UT,Don't know,No,No,No
+646,NJ,Yes,Not sure,Don't know,Don't know
+647,PA,Yes,Yes,No,Don't know
+648,IN,Yes,Yes,Yes,Yes
+649,OH,No,No,No,No
+650,OH,Yes,Not sure,No,Yes
+651,IL,Yes,Yes,Yes,Yes
+652,IN,Don't know,No,No,No
+653,CA,Yes,Yes,No,No
+654,WA,Yes,Yes,Yes,Yes
+655,VA,Yes,Not sure,No,Don't know
+656,WA,Yes,Yes,Yes,Yes
+657,NJ,Yes,Yes,No,Don't know
+658,UT,No,Yes,No,No
+659,TN,Yes,No,No,No
+660,IN,Yes,Not sure,Yes,Yes
+661,IN,Yes,Yes,Yes,Don't know
+662,CA,Yes,Yes,Don't know,Don't know
+663,OH,No,Yes,No,No
+664,TX,Yes,Yes,No,Don't know
+665,TN,No,Yes,No,No
+666,WA,Yes,Yes,Yes,Don't know
+667,UT,Yes,No,No,Yes
+668,AL,No,Yes,No,No
+669,WI,Don't know,No,No,No
+670,WA,Yes,Not sure,Yes,Don't know
+671,WI,Don't know,Not sure,Yes,Don't know
+672,NY,Don't know,No,No,Don't know
+673,NY,Yes,Not sure,No,Yes
+674,OH,Don't know,Not sure,No,No
+675,WA,Don't know,No,No,No
+676,CA,Yes,No,No,No
+677,SC,No,Yes,No,Don't know
+678,CA,Yes,Yes,Don't know,Don't know
+679,MN,Don't know,No,Don't know,Don't know
+680,WA,Yes,Not sure,Don't know,Don't know
+681,PA,Don't know,Yes,No,Don't know
+682,NY,Yes,Yes,Yes,Yes
+683,VT,No,Yes,No,No
+684,MI,Don't know,No,Don't know,Don't know
+685,NY,Don't know,Not sure,Don't know,Don't know
+686,NY,Don't know,Not sure,Don't know,Don't know
+687,AL,Yes,Yes,Yes,Yes
+688,MI,Yes,No,No,No
+689,WA,Yes,Yes,No,No
+690,TN,Yes,Yes,No,No
+691,NY,Don't know,No,No,No
+692,IN,Yes,Yes,No,Yes
+693,NC,Yes,Not sure,No,Don't know
+694,CA,Yes,Yes,Yes,Yes
+695,TN,Don't know,Not sure,No,No
+696,MN,No,Yes,No,No
+697,NC,Yes,Yes,No,No
+698,TX,Don't know,No,No,Don't know
+699,CA,Yes,Yes,No,No
+700,CA,Yes,No,Yes,Don't know
+701,IL,Yes,Yes,Yes,Yes
+702,PA,Yes,Yes,No,Don't know
+703,IL,Don't know,Not sure,No,No
+704,IL,Yes,No,Yes,Yes
+705,MN,Yes,Yes,No,Yes
+706,NY,Don't know,No,No,No
+707,MI,Yes,No,No,No
+708,OH,No,No,No,Don't know
+709,NY,Yes,Yes,No,No
+710,CA,Yes,Yes,Yes,Yes
+711,IN,Yes,Not sure,Don't know,Yes
+712,IN,No,No,No,No
+713,VA,No,Yes,No,No
+714,OK,Don't know,Not sure,Don't know,Don't know
+715,OR,Don't know,Not sure,Don't know,Don't know
+716,AL,Yes,No,No,No
+717,AL,Yes,Yes,No,No
+718,OH,Yes,Yes,No,Yes
+719,TX,Yes,Not sure,No,Don't know
+720,TX,Yes,No,No,No
+721,TX,No,Yes,No,No
+722,FL,Yes,Yes,No,No
+723,TX,Yes,No,Yes,Yes
+724,CA,Don't know,No,No,No
+725,MD,Don't know,Not sure,Don't know,Don't know
+726,MN,Don't know,Yes,No,No
+727,CA,Don't know,No,Yes,Don't know
+728,TN,Yes,Yes,Yes,Yes
+729,FL,Yes,Yes,No,Yes
+730,OR,Yes,Not sure,Don't know,Yes
+731,WA,Yes,No,No,Don't know
+732,CA,Yes,Yes,Don't know,No
+733,CA,Yes,Not sure,Yes,Yes
+734,NC,Yes,Yes,Yes,No
+735,UT,Don't know,No,Yes,Yes
+736,IL,Yes,Yes,No,No
+737,CA,Yes,Yes,No,No
+738,NC,No,Yes,No,No
+739,IL,Yes,Yes,No,No
